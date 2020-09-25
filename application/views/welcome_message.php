@@ -8,6 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<title>codeignitor</title>
 	</head>
 	<body>
-		<h1>hello</h1>
+		<h1>hello world!!</h1>
+		
 	</body>
 </html>
