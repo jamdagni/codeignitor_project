@@ -36,6 +36,7 @@ class Employees extends CI_Controller{
       );
 
       $this->Employees_list->insert_employee($employee_details);
+      redirect('employees','refresh');
     }
   }
 
